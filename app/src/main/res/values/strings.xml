@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Tutorial8</string>
+    <string name="btn1_text">Submit</string>
+    <string name="tv_name_text">Your Name : </string>
+</resources>
